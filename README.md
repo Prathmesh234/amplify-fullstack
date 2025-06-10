@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Expo News Feed
+
+A sample React Native (Expo) app lives in `expo-newsfeed`. It demonstrates a TikTok-style news feed with Google OAuth via Clerk. See the folder's README for setup instructions.
